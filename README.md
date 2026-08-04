@@ -9,7 +9,7 @@
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/favicon-generator.html)
 [![Category](https://img.shields.io/badge/Image%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Free Favicon Generator — create favicon.ico, apple-touch-icon, Android icons, maskable icons, web manifest, and HTML head snippet from an image, text, or emoji. All sizes, 100% in your browser.**
+**Free favicon generator — create favicon.ico, apple-touch-icon, Android/maskable icons, site.webmanifest, and an HTML head snippet from an image, text, or emoji. Every standard size, 100% in your browser, no upload.**
 
 [🚀 **Open Favicon Generator Now →**](https://tooladda.online/favicon-generator.html)
 
@@ -94,12 +94,17 @@ Visit tooladda.online — search for Favicon Generator or use the link in this r
   <code>favicon generator</code>&nbsp;
   <code>free favicon generator all sizes</code>&nbsp;
   <code>favicon.ico generator</code>&nbsp;
+  <code>png to ico converter</code>&nbsp;
+  <code>ico converter online</code>&nbsp;
   <code>apple touch icon generator</code>&nbsp;
   <code>maskable icon generator</code>&nbsp;
+  <code>android chrome icon generator</code>&nbsp;
   <code>web manifest generator</code>&nbsp;
   <code>favicon maker online</code>&nbsp;
   <code>create favicon from image</code>&nbsp;
+  <code>create favicon from text</code>&nbsp;
   <code>favicon generator png ico</code>&nbsp;
+  <code>site.webmanifest generator</code>&nbsp;
 </p>
 
 ---
@@ -116,4 +121,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: Favicon Generator, favicon generator, free favicon generator all sizes, favicon.ico generator, apple touch icon generator, maskable icon generator, web manifest generator, favicon maker online, create favicon from image, favicon generator png ico, tooladda, free online tool -->
+<!-- SEO: Favicon Generator, favicon generator, free favicon generator all sizes, favicon.ico generator, png to ico converter, ico converter online, apple touch icon generator, maskable icon generator, android chrome icon generator, web manifest generator, favicon maker online, create favicon from image, create favicon from text, favicon generator png ico, site.webmanifest generator, tooladda, free online tool -->
